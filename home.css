@@ -1,0 +1,176 @@
+body{
+    background-image: url(https://www.shutterstock.com/image-photo/astronaut-spaceman-do-spacewalk-while-600nw-1918580252.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: -180px -20px;
+    background-size: 1500px 620px;
+}
+#hi{
+    font-size: 40px;
+    background:linear-gradient(to right,white);
+    background-clip:text;
+    color:transparent;
+    text-align: center;
+    margin-top: 30px;
+    margin-left:40px;
+    letter-spacing: 3px;
+
+}
+
+.cont{
+    color:white;
+    margin-left: 465px;
+    margin-top: -10px;
+    width:350px;
+    height:150px;
+    border:2px solid rgb(245, 245, 245);
+    padding-left:14px;
+    border-top-right-radius:15%;
+    border-bottom-left-radius:15%;
+    box-shadow:0px 0px 20px 10px black;
+    background-color: black;
+}
+.cont input{
+    border:2px solid black;
+    background: radial-gradient(rgb(198, 244, 247));
+}
+.cont input:hover{
+    border:3px solid  rgb(0, 0, 45);
+  }
+.cont:hover{
+    box-shadow:0px 0px 20px 20px black;
+}
+#o{
+    width:200px;
+}
+.cont h1{
+    color:whitesmoke;
+    font-size:15px;
+}
+#hi2{
+    text-align:center;
+    color:black;
+    margin-top:15px;
+    font-size:30px;
+}
+#one{
+    border:2px solid white;
+    width:200px;
+    height:165px;
+    margin-left:196px;
+    margin-top:-20px;
+    border-radius:15%;
+    background: url(UFO.png);
+    background-size: 200px 170px;
+    background-repeat: no-repeat;
+    box-shadow:0px 0px 20px 10px;
+    background-color: black;
+}
+#one:hover{
+    box-shadow:0px 0px 20px 30px;
+    
+}
+ #one p{
+    text-align:center;
+    color:black;
+    margin-top:179px;
+    background-color: whitesmoke;
+    background-size: 5px;
+}
+ #two{
+    border:2px solid white;
+    width:200px;
+    height:165px;
+    margin-left:420px;
+    margin-top:-170px;
+    border-radius:15%;
+    background:url(rocket.png);
+    background-size: 300px 175px;
+    background-position: -80px -10px;
+    background-repeat: no-repeat;
+    box-shadow:0px 0px 20px 10px;
+}
+#two:hover{
+    box-shadow:0px 0px 20px 30px;
+}
+ #two p{
+    text-align:center;
+    color:black;
+    margin-top:160px;
+    background-color: white;
+}
+ #three{
+    border:2px solid white;
+    width:200px;
+    height:165px;
+    margin-left:640px;
+    margin-top:-170px;
+    border-radius:15%;
+    background:url(spaceship.png);
+    background-size: 200px 180px;
+    background-position: 10px;
+    background-repeat: no-repeat;
+    box-shadow:0px 0px 20px 10px;
+}
+#three:hover{
+    box-shadow:0px 0px 20px 30px;
+}
+#three p{
+    text-align:center;
+    color:black;
+    margin-top:160px;
+background-color: white;
+}
+ #four{
+    border:2px solid white;
+    width:200px;
+    height:165px;
+    margin-left:865px;
+    margin-top:-170px;
+    border-radius:15%;
+    background: url(star\ cruiser.png);
+    background-size: 190px 200px;
+    background-repeat: no-repeat;
+    background-position: 10px -15px;
+    box-shadow:0px 0px 20px 10px;
+} #four:hover{
+    box-shadow:0px 0px 20px 30px;
+}
+#four p{
+    text-align:center;
+    color:black;
+    margin-top:180px;
+background-color: white;
+}
+#one input{
+    position:absolute;
+    top:485px;
+    left:297px;
+}
+#two input{
+    position:absolute;
+    top:485px;
+    left:520px;
+}
+#three input{
+    position:absolute;
+    top:485px;
+    left:740px;
+}
+#four input{
+position:absolute;
+left:960px;
+top:485px;
+}
+button{
+    position:absolute;
+    left:1140px;
+    top:540px;
+    height:35px;
+    width:100px;
+    color:aliceblue;
+    background:radial-gradient(purple 20px,blue);
+}
+button:hover{
+    background: radial-gradient(rgb(27, 27, 231) ,purple 60px);
+}

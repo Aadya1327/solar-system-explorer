@@ -1,0 +1,60 @@
+body{
+    background: url(backdrop.png);
+}
+img{
+    position: absolute;
+    height:400px;
+    width:680px;
+    left:-40px;
+    top:100px;
+}
+.info{
+    color: aliceblue;
+    position:absolute;
+    left:520px;
+    top:25px;
+    text-align: center;
+    width:700px;
+    word-spacing: -2px;
+}
+h1{
+    background:linear-gradient(to right,rgb(241, 88, 187), rgb(2, 209, 245));
+    background-clip:text;
+    color:transparent;
+    position: absolute;
+    left:-430px;
+}
+h3{
+    background:linear-gradient(to right,rgb(243, 227, 197),rgb(250, 48, 48));
+    background-clip:text;
+    color:transparent;
+}
+#o{
+    position:absolute;
+    left:1140px;
+    top:540px;
+    height:35px;
+    width:100px;
+    background:radial-gradient(rgb(241, 79, 241) 20px,rgb(6, 6, 155));
+    font-size: 15px;
+    color:white;
+}
+#t
+{
+    position:absolute;
+    left:20px;
+    top:540px;
+    height:35px;
+    width:100px;
+    background:radial-gradient(rgb(241, 79, 241) 20px,rgb(4, 4, 164));
+    font-size: 13px;
+    color:white;
+}
+#o:hover{
+    background: radial-gradient(rgb(27, 27, 231) ,purple 60px);
+    color:white;
+}
+#t:hover{
+    background: radial-gradient(rgb(27, 27, 231) ,purple 60px);
+    color:white;
+}

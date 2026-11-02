@@ -1,0 +1,282 @@
+body {
+    background-image: url(https://cdn.eso.org/videos/videoframe/eso2115b.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+h4{
+    color:antiquewhite;
+}
+h6{
+    color:antiquewhite;
+}
+#sun{
+    width:205px;
+    height:205px;
+    position:absolute;
+    top:210px;
+}
+#sunn{
+    color:antiquewhite;
+    position: absolute;
+    top:380px;
+    left:85px;
+    font-size: 30px;
+     background:linear-gradient(to right,rgb(241, 88, 187), rgb(2, 209, 245));
+    background-clip:text;
+    color:transparent;
+}
+#mercury{
+    width:110px;
+    height:100px;
+    position:absolute;
+    top:150px;
+    left:230px;
+}
+#mercury:hover
+{
+  width:120px;
+  height:110px;
+  top:140px;
+  left:225px;
+}
+#mercuryy{
+    position:absolute;
+    top:228px;
+    left:257px;
+     background:linear-gradient(to right,rgb(241, 88, 187), rgb(2, 209, 245));
+    background-clip:text;
+    color:transparent;
+}
+#venus{
+    width:100px;
+    height:110px;
+    position:absolute;
+    top:93px;
+    left:395px;
+}
+#venus:hover{
+    width:110px;
+    height:120px;
+    top:90px;
+    left:392px;
+}
+#venuss{
+    position:absolute;
+    top:172px;
+    left:429px;
+     background:linear-gradient(to right,rgb(241, 88, 187), rgb(2, 209, 245));
+    background-clip:text;
+    color:transparent;
+}
+#earth{
+    width:190px;
+    height:100px;
+    position:absolute;
+    top:305px;
+    left:485px;
+}
+
+#earth:hover{
+    width:200px;
+    height:110px;
+    top:300px;
+    left:480px;
+}
+#earthh{
+    position:absolute;
+    top:385px;
+    left:552px;
+     background:linear-gradient(to right,rgb(241, 88, 187), rgb(2, 209, 245));
+    background-clip:text;
+    color:transparent;
+}
+#moon{
+    width:90px;
+    height:70px;
+    position:absolute;
+    top:385px;
+    left:480px;
+}
+#moon:hover{
+    width:100px;
+    height:80px;
+    top:379px;
+    left:476px;
+}
+#moonn{
+    position:absolute;
+    top:420px;
+    left:515px;
+     background:linear-gradient(to right,rgb(241, 88, 187), rgb(2, 209, 245));
+    background-clip:text;
+    color:transparent;
+}
+#mars{
+    width:180px;
+    height:100px;
+    position:absolute;
+    left:600px;
+    top:150px;
+}
+#mars:hover{
+    width:190px;
+    height:110px;
+    left:595px;
+    top:145px;
+}
+#marss{
+    position:absolute;
+    top:225px;
+    left:670px;
+     background:linear-gradient(to right,rgb(241, 88, 187), rgb(2, 209, 245));
+    background-clip:text;
+    color:transparent;
+}
+#jupiter{
+    width:100px;
+    height:100px;
+    position:absolute;
+    left:730px;
+    top:410px;
+}
+#jupiter:hover{
+    width:110px;
+    height:110px;
+    left:725px;
+    top:405px;
+}
+#jupiterr{
+    position:absolute;
+    top:475px;
+    left:753px;
+     background:linear-gradient(to right,rgb(241, 88, 187), rgb(2, 209, 245));
+    background-clip:text;
+    color:transparent;
+}
+#saturn{
+    width:100px;
+    height:100px;
+    position:absolute;
+    left:820px;
+    top:210px;
+}
+#saturn:hover{
+    width:110px;
+    height:110px;
+    left:815px;
+    top:205px;
+}
+#saturnn{
+    position:absolute;
+    top:280px;
+    left:860px;
+     background:linear-gradient(to right,rgb(241, 88, 187), rgb(2, 209, 245));
+    background-clip:text;
+    color:transparent;
+}
+#uranus{
+    width:180px;
+    height:100px;
+    position:absolute;
+    left:890px;
+    top:30px;
+}
+#uranus:hover{
+    width:190px;
+    height:110px;
+    left:885px;
+    top:25px;
+}
+#uranuss{
+    position:absolute;
+    top:100px;
+    left:959px;
+     background:linear-gradient(to right,rgb(241, 88, 187), rgb(2, 209, 245));
+    background-clip:text;
+    color:transparent;
+}
+#neptune{
+    width:180px;
+    height:100px;
+    position:absolute;
+    left:1000px;
+    top:315px;
+}
+#neptune:hover{
+    width:190px;
+    height:110px;
+    left:995px;
+    top:310px;
+}
+#neptunee{
+    position:absolute;
+    top:390px;
+    left:1064px;
+     background:linear-gradient(to right,rgb(241, 88, 187), rgb(2, 209, 245));
+    background-clip:text;
+    color:transparent;
+}
+#pluto{
+    width:140px;
+    height:100px;
+    position:absolute;
+    left:1122px;
+    top:200px;
+}
+#pluto:hover{
+    width:150px;
+    height:110px;
+    left:1117px;
+    top:195px;
+}
+#plutoo{
+    position: absolute;
+    top:267px;
+    left:1175px;
+     background:linear-gradient(to right,rgb(241, 88, 187), rgb(2, 209, 245));
+    background-clip:text;
+    color:transparent;
+}
+.spaceship img{
+    position:absolute;
+    top:435px;
+    left:60px;
+    width:140px;
+    height:120px;
+}
+.name{
+    position:absolute;
+    top:553px;
+    left:115px;
+     background:linear-gradient(to right,rgb(241, 88, 187), rgb(2, 209, 245));
+    background-clip:text;
+    color:transparent;
+}
+#main{
+    text-align: center;
+    margin-top: 470px;
+    font-size: 15px;
+    background:linear-gradient(to right,rgb(241, 88, 187), rgb(2, 209, 245));
+    background-clip:text;
+    color:transparent;
+}
+#main2{
+    text-align: center;
+    font-size: 40px;
+    background:linear-gradient(to right, rgb(2, 209, 245),rgb(241, 88, 187));
+    background-clip:text;
+    color:transparent;
+    word-spacing: 3px;
+}
+button{
+    position:absolute;
+    left:1140px;
+    top:540px;
+    height:35px;
+    width:100px;
+    background:radial-gradient(purple 20px,blue);
+    color:white;
+}
+button:hover{
+    background: radial-gradient(rgb(27, 27, 231) ,purple 60px);
+}
