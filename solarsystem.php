@@ -8,7 +8,7 @@
 </head>
 <body>
     <h1 id="main2">Step into the Cosmos</h1>
-    <a href="home.html"><button>Back to Home tab</button></a>
+    <a href="index.html"><button>Back to Home tab</button></a>
     <div class="planets">
     <h1 id="sunn">Sun</h1>
     <img id="sun" src="sun-removebg-preview (1).png" alt="">
