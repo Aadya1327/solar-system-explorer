@@ -20,3 +20,11 @@
 - Understanding PHP and server-side scripting.
 - Passing selected data between webpages.
 - Dynamically displaying content based on user selection.
+
+  ## 🌐 Live Website
+
+Explore the Solar System Explorer here:
+
+**[Visit Solar System Explorer](http://aadya.lovestoblog.com/)**
+
+
